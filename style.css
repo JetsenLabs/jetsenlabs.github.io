@@ -1,0 +1,22 @@
+body {
+	background-image: url("baseball-pic.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+
+.heading{
+	position: absolute;
+    left: 0;
+    top: 40%;
+    width: 100%;
+	text-align: center;
+	color: white;
+}
+
+.btn-lg {
+	position: absolute;
+    right: 45%;
+    top:  75%;
+}
+
